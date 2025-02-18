@@ -1,4 +1,5 @@
 import math
+
 n = 3.14159
 R = float(input())
 A = n * math.pow(R, 2)
